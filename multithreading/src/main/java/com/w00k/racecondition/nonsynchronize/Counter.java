@@ -1,4 +1,4 @@
-package com.w00k.racecondition;
+package com.w00k.racecondition.nonsynchronize;
 
 public class Counter {
 

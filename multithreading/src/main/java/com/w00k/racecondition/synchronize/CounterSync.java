@@ -1,4 +1,4 @@
-package com.w00k.synchronize;
+package com.w00k.racecondition.synchronize;
 
 public class CounterSync {
 
