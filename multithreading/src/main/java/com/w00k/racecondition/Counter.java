@@ -4,6 +4,9 @@ public class Counter {
 
     private long count = 0;
 
+    /*
+    this method create a race condition, because is not sync for the two threads
+     */
     public void incAndGet() {
         this.count++;
     }
